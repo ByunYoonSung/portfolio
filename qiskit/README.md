@@ -17,19 +17,17 @@
 | `07_ibm_sample_circuits_3.ipynb` | IBM 퀀텀 기초 회로 샘플 실습 3 | `basic circuit`, `execution` |
 | `08_mps_simulation_method.ipynb` | 행렬곱 상태 기반 효율적 시뮬레이션 | `MPS`, `efficient simulation` |
 
-## 🧩 데이터 분석 직무와의 연결점
+## 데이터 분석 직무와의 연결점
 
-- 복잡한 **확률적 시스템의 시뮬레이션** 및 시각화
-- **회로 구성 → 시뮬레이션 실행 → 결과 해석**의 전체 파이프라인 경험
-- 미래 금융/물류 분야에서 중요성이 증가하는 **양자 최적화 알고리즘의 기반기술** 학습
+- 복잡한 확률적 시스템의 시뮬레이션 및 시각화
+- 회로 구성 → 시뮬레이션 실행 → 결과 해석의 전체 파이프라인 경험
+- 미래 금융/물류 분야에서 중요성이 증가하는 양자 최적화 알고리즘의 기반기술 학습
 - 통계/선형대수 기반의 수학 모델을 코드로 구현하고 결과를 실험적으로 분석
 
-## 🛠️ 사용 기술
+## 🛠사용 기술
 
-- Python (Qiskit, numpy, matplotlib)
+- Python (Qiskit, numpy, matplotlib 등)
 - Jupyter Notebook
 - IBM Quantum Experience API
 
 ---
-
-📌 이 저장소는 “복잡한 시스템을 수학적으로 모델링하고 시뮬레이션할 수 있는 분석가로서의 역량”을 보여주기 위한 기반 포트폴리오입니다.
