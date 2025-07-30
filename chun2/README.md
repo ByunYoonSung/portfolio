@@ -16,7 +16,7 @@
 | M74_analysis.ipynb | 은하 M74의 분광 데이터 처리 및 분석 |
 | m77_analysis.ipynb | 은하 M77의 분광 데이터 처리 및 분석 |
 
-## 🛠사용 기술
+## 사용 기술
 
 - astropy.io.fits를 통한 FITS 이미지 불러오기
 - numpy 기반 배열 연산 및 데이터 정규화
